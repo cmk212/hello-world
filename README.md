@@ -1,2 +1,2 @@
 # hello-world
-The everyday Joe Shmoe repo
+The octopus is a cephalopod mollusc of the order Octopoda. It has two eyes and four pairs of arms and, like other cephalopods, it is bilaterally symmetric. It has a beak, with its mouth at the center point of the arms. It has no internal or external skeleton (although some species have a vestigial remnant of a shell inside their mantles), allowing it to squeeze through tight places. Octopuses are among the most intelligent and behaviorally diverse of all invertebrates
